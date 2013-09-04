@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace DbfCompare.DbfDiff
+namespace DbfCompare.Core.DbfDiff
 {
     /// <summary>
     /// The operation.

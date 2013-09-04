@@ -7,7 +7,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace DbfCompare.DbfDiff
+namespace DbfCompare.Core.DbfDiff
 {
     using System.Collections.Generic;
     using System.Linq;

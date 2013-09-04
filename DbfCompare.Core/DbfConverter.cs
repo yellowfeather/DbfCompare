@@ -1,11 +1,29 @@
-﻿namespace DbfCompare
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="DbfConverter.cs" company="Yellow Feather Ltd">
+//   Copyright 2012 Yellow Feather Ltd.
+// </copyright>
+// <summary>
+//   Defines the DbfConverter type.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace DbfCompare.Core
 {
   using System.IO;
 
   using SocialExplorer.IO.FastDBF;
 
+  /// <summary>
+  /// Converts DBF files to CSF.
+  /// </summary>
   public class DbfConverter
   {
+    /// <summary>
+    /// The to CSV.
+    /// </summary>
+    /// <param name="filepath">
+    /// The file path.
+    /// </param>
     public static void ToCsv(string filepath)
     {
       if (string.IsNullOrEmpty(filepath))

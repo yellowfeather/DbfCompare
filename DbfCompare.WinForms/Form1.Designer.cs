@@ -1,4 +1,4 @@
-﻿namespace DbfCompare
+﻿namespace DbfCompare.WinForms
 {
   partial class Form1
   {

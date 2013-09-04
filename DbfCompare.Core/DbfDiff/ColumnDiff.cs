@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace DbfCompare.DbfDiff
+namespace DbfCompare.Core.DbfDiff
 {
     /// <summary>
     /// The column diff.
@@ -12,7 +12,7 @@ namespace DbfCompare.DbfDiff
     public struct ColumnDiff
     {
         /// <summary>
-        /// Initialises a new instance of the <see cref="ColumnDiff"/> struct.
+        /// Initializes a new instance of the <see cref="ColumnDiff"/> struct.
         /// </summary>
         /// <param name="index">
         /// The index.

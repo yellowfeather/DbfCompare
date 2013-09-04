@@ -8,7 +8,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace DbfCompare.DbfDiff
+namespace DbfCompare.Core.DbfDiff
 {
     using System;
     using System.Collections;
