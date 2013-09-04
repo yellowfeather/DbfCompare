@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbfCompare.WinForms", "DbfCompare.WinForms\DbfCompare.WinForms.csproj", "{5CED71E9-0C9D-4E17-AA9E-AF80A1A3A689}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbfCompare.Core", "DbfCompare.Core\DbfCompare.Core.csproj", "{F55AD868-936A-4E84-A433-EF6DEA730A52}"
