@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbfCompare.WinForms", "DbfC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbfCompare.Core", "DbfCompare.Core\DbfCompare.Core.csproj", "{F55AD868-936A-4E84-A433-EF6DEA730A52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbfCompare", "DbfCompare\DbfCompare.csproj", "{1EE8A407-B051-4E23-A17A-A10A4D9BC266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,16 @@ Global
 		{F55AD868-936A-4E84-A433-EF6DEA730A52}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{F55AD868-936A-4E84-A433-EF6DEA730A52}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{F55AD868-936A-4E84-A433-EF6DEA730A52}.Release|x86.ActiveCfg = Release|Any CPU
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Debug|x86.ActiveCfg = Debug|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Debug|x86.Build.0 = Debug|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Release|Any CPU.ActiveCfg = Release|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Release|Mixed Platforms.Build.0 = Release|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Release|x86.ActiveCfg = Release|x86
+		{1EE8A407-B051-4E23-A17A-A10A4D9BC266}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
